@@ -1,0 +1,39 @@
+# =========================
+# STM32CubeIDE Build Output
+# =========================
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+
+# =========================
+# STM32CubeIDE IDE Files
+# =========================
+.metadata/
+.settings/
+*.launch
+RemoteSystemsTempFiles/
+
+# =========================
+# Object & Dependency files
+# =========================
+*.o
+*.d
+*.a
+objects.list
+objects.mk
+sources.mk
+
+# =========================
+# OS/Editor junk
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
