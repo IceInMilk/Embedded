@@ -1,0 +1,5 @@
+Message[302] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB3.X\CODE.ASM 111 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB3.X\CODE.ASM 114 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB3.X\CODE.ASM 120 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB3.X\CODE.ASM 123 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB3.X\CODE.ASM 135 : Found directive in column 1. (end)

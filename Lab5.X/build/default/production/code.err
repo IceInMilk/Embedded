@@ -1,0 +1,6 @@
+Warning[205] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB5.X\CODE.ASM 13 : Found directive in column 1. (__CONFIG)
+Warning[205] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB5.X\CODE.ASM 17 : Found directive in column 1. (__CONFIG)
+Message[302] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB5.X\CODE.ASM 80 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB5.X\CODE.ASM 86 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB5.X\CODE.ASM 90 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB5.X\CODE.ASM 108 : Found directive in column 1. (end)

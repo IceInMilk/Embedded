@@ -1,0 +1,10 @@
+Warning[205] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB6.X\CODE.ASM 9 : Found directive in column 1. (__CONFIG)
+Warning[205] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB6.X\CODE.ASM 13 : Found directive in column 1. (__CONFIG)
+Message[305] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB6.X\CODE.ASM 38 : Using default destination of 1 (file).
+Message[305] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB6.X\CODE.ASM 40 : Using default destination of 1 (file).
+Message[302] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB6.X\CODE.ASM 77 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB6.X\CODE.ASM 92 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB6.X\CODE.ASM 94 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB6.X\CODE.ASM 98 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB6.X\CODE.ASM 100 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\ICE.IN.MILK\MPLABXPROJECTS\LAB6.X\CODE.ASM 112 : Found directive in column 1. (end)
