@@ -1,5 +1,4 @@
-# Embedded
+# Embedded Systems Class
 
-## STM32 Nucleo Projects
-+ breadboard-led
-- Simple program that turns on a LED when the blue onboard button is pressed
+## PIC16 MCU
+https://www.mikroe.com/ebooks/pic-microcontrollers-programming-in-assembly
